@@ -1,3 +1,5 @@
+! Should be savegame compatible !
+
 copy
 "Wave22kH" folder in audio zip to root folder of game
 >this will change the voices of MM31 "Heavy Tank" and MM41 "Tank" to their EftBP counterparts
