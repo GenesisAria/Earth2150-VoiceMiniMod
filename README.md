@@ -7,3 +7,6 @@ determine which patch you are using for TMP or LS
 copy
 "Parameters " folder to root directory of game
 >this will increase the frequency of unit speech
+
+<br></br>
+※ if not working, update modification date of files so that mod files are most recent
