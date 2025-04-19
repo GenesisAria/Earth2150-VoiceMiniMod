@@ -1,4 +1,5 @@
 ! Should be savegame compatible !
+---
 
 copy
 "Wave22kH" folder in audio zip to root folder of game
